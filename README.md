@@ -24,6 +24,8 @@ Race results are used **only as training labels**, never as model inputs.
 - DNFs / DSQs / DNS handled as missing race positions
 - Lap times converted to seconds for numerical modeling
 
+![data viewed on excel](data.png)
+
 ### Model
 - **Algorithm:** Random Forest Regressor
 - **Framework:** scikit-learn
