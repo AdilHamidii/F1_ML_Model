@@ -45,9 +45,10 @@ This prevents data leakage and mirrors real-world forecasting.
 
 Typical performance on the 2024 season:
 - **Mean Absolute Error:** ~3.1 positions
-- **±3 positions accuracy:** ~40%
+- **±3 positions accuracy:** ~53%
 
 Given the inherent randomness of F1 races, this represents a **strong baseline** using only pre-race data.
+might be a sign for me to start gambling 
 
 ---
 
